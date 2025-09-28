@@ -1,5 +1,5 @@
 pandas
-fuzzywuzzy
-python-Levenshtein
+sentence-transformers
+scikit-learn
 ipywidgets
 openpyxl
